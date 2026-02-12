@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 ## https://github.com/iptv-org/iptv
 https://iptv-org.github.io/iptv/index.m3u
 ## https://iptvindex.com/
-https://tv.iptvindex.com/zb
 https://txt.gt.tc/users/HKTV.txt
 https://bc.188766.xyz/?ip=&mima=bingcha1130
 https://tmxk.pp.ua/smart-cn.m3u
